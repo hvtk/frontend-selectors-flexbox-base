@@ -1,12 +1,25 @@
+/* Antwoord op opdracht 1.1 */
 #widht-text {width: 100%}
 
+/* Antwoord op opdracht 1.2 */
 .ul-color {color: hsl(110, 29%, 52%)}
 
+/* Antwoord op opdracht 1.3 */
 .text-size {font-size: smaller}
 
+/* Antwoord op vraag 1,4 */
+a:link {color: hsl(359,79%,56%)}
 
+a:hover {background-color: hsl(120,79%,56%)}
 
+/* Antwoord op opdracht 1.5 */
+main {
+    a:visited {color: hsl(120,79%,56%)}
+    a:hover {background-color: hsl(120,79%,56%)}
+}
 
+/* Antwoord op opdracht 1.6 */
+.sign-up-button {background-color: hsl(359,79%,56%)}
 
 
 
